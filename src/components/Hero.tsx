@@ -31,7 +31,7 @@ const Hero: React.FC = () => {
                         filter: 'drop-shadow(0 25px 50px rgba(0, 0, 0, 0.25))'
                     }}>
                         <img
-                            src="/assets/screenshot_home.jpg"
+                            src="assets/screenshot_home.jpg"
                             alt="TodoStock App Interface"
                             style={{ width: '100%' }}
                         />

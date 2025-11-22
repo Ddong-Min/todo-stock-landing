@@ -42,20 +42,20 @@ const Features: React.FC = () => {
             <FeatureItem
                 title="성장을 시각화하세요"
                 desc="주식 차트로 생산성을 추적하세요. 완료한 모든 할 일이 당신의 가치를 높입니다. 좋은 습관을 만들며 당신의 주가가 오르는 것을 지켜보세요."
-                img="/assets/screenshot_chart.jpg"
+                img="assets/screenshot_chart.jpg"
             />
 
             <FeatureItem
                 title="친구들과 경쟁하세요"
                 desc="친구들 사이에서 당신의 순위를 확인하세요. 이번 주 가장 높은 성장률은 누구일까요? 선의의 경쟁이 강력한 동기부여가 됩니다."
-                img="/assets/screenshot_market.jpg"
+                img="assets/screenshot_market.jpg"
                 reversed
             />
 
             <FeatureItem
                 title="소식을 받아보세요"
                 desc="당신의 생산성 트렌드에 대한 뉴스를 받아보세요. 전문 투자자처럼 자신의 성과를 분석하고 관리할 수 있습니다."
-                img="/assets/screenshot_news.jpg"
+                img="assets/screenshot_news.jpg"
             />
         </section>
     );

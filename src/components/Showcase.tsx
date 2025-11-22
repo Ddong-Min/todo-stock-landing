@@ -26,7 +26,7 @@ const Showcase: React.FC = () => {
                             }}
                             className="showcase-item"
                         >
-                            <img src={`/assets/${img}`} alt={`Showcase ${index}`} style={{ width: '100%' }} />
+                            <img src={`assets/${img}`} alt={`Showcase ${index}`} style={{ width: '100%' }} />
                         </div>
                     ))}
                 </div>
